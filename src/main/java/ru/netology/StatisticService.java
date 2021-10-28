@@ -15,4 +15,6 @@ public class StatisticService {
                 current_max = income;
         return current_max;
     }
+
+
 }
