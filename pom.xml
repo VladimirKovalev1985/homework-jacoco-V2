@@ -63,7 +63,6 @@
                 <configuration>
                     <rules>
                         <rule>
-                            <element>BRANCH</element>
                             <limits>
                                 <limit>
                                     <counter>BRANCH</counter>
